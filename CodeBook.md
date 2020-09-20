@@ -1,12 +1,3 @@
----
-title: "CodeBook"
-author: "Chakshudaa"
-date: "20/09/2020"
-output:
-  pdf_document: default
-  html_document:
-    keep_md: yes
----
 # **Peer-graded Assignment: Getting and Cleaning Data Course Project**
 
 The goal of this project was to prepare a tidy dataset by using the UCI HAR Dataset (Human Activity Recognition Using Smartphones Dataset).
