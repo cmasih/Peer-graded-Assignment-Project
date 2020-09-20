@@ -1,9 +1,4 @@
----
-title: "ReadMe"
-author: "Chakshudaa"
-date: "20/09/2020"
-output: html_document
----
+
 # **Peer-graded Assignment: Getting and Cleaning Data Course Project**
 
 ## Introduction
